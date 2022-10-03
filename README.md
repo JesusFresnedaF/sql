@@ -6,4 +6,5 @@ CREATE TABLE series{
   ...
 }
 
-# show all collumns from the TABLE: SELECT * series.
+show all collumns from the TABLE: 
+SELECT * series.
