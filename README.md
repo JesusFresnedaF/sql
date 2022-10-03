@@ -4,4 +4,4 @@ SQL introduction
 ~
 CREATE TABLE series{
   ...
-]
+}
